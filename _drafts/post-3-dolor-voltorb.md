@@ -3,7 +3,7 @@ title: Post 3 Dolor Voltorb
 date: 2017-08-01T09:09:13.000+00:00
 related_posts: []
 sub_heading: Maecenas faucibus mollis interdum. Vivamus sagittis lacus
-banner_image: "/uploads/2018/02/17/bridge.jpg"
+banner_image: "/uploads/2018/02/17/college-building.jpg"
 tags:
 - Partnerships
 layout: post
