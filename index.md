@@ -3,10 +3,7 @@ title: Home
 banner_image: "/uploads/2018/02/17/city.jpg"
 layout: landing-page
 heading: Forestry Testing
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
